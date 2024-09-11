@@ -16,7 +16,15 @@
 # Proyectos 📈
 ### Estoy comenzando mi camino en la programación y me encanta explorar nuevas tecnologías y resolver problemas.
 # Tecnologias 💻
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosHernandezArista000001)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHernandezArista000001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4WULPsp0IQlfjRTRCK/giphy.gif" width="200"/>
+</div>
+
 
 
 
