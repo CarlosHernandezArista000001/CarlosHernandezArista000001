@@ -21,6 +21,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHernandezArista000001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+
+# Tareas: Intruducción a la Computación
++ [Tareas](Tarea 1 Como funciona una computadora. Carlos Hernandez Arista.pdf)
+
+
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4WULPsp0IQlfjRTRCK/giphy.gif" width="200"/>
 </div>
