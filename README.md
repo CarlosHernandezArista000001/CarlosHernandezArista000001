@@ -23,7 +23,7 @@
 
 
 # Tareas: Intruducción a la Computación
-+ [Activida](Tarea 1 Como funciona una computadora. Carlos Hernandez Arista.pdf)
++ [Actividad Tarea](Tarea 1 Como funciona una computadora. Carlos Hernandez Arista.pdf)
 
 
 
