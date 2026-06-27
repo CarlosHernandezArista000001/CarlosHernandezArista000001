@@ -12,7 +12,7 @@
 ## Mantenimiento Preventivo
 ## Mantenimiento Correctivo 
 ## Programacion desde Cero/
-## Para mas información comunicate por Correo ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) carloshernandezarista@gmail.com
+## Para mas información comunicate por Correo ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 # Proyectos 📈
 ### Estoy comenzando mi camino en la programación y me encanta explorar nuevas tecnologías y resolver problemas.
 # Tecnologias 💻
